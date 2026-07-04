@@ -221,3 +221,9 @@ Part of the `tiny-*` zero-dep Python stack. Sibling libraries:
 | [snapdb](https://github.com/hussain-alsaibai/snapdb)                                  | Embedded in-memory DB                |
 
 **Stack: 18 repos, ~14K LOC, 0 dependencies, ~440 tests.**
+
+## Today's siblings
+
+- [`tiny-metrics`](https://github.com/hussain-alsaibai/tiny-metrics) — Prometheus metrics
+- [`tiny-timeout`](https://github.com/hussain-alsaibai/tiny-timeout) — timeouts that work
+- [`tiny-idempotency`](https://github.com/hussain-alsaibai/tiny-idempotency) — idempotency keys
